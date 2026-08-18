@@ -6,102 +6,171 @@ All rights reserved.
 
 1. SOFTWARE
 
-This license applies to the Hunt Proxy software, including but not limited to compiled binaries, packages, installers, releases, documentation, and other materials distributed through this repository or official Hunt Proxy distribution channels (collectively, the "Software").
+This license applies to the Hunt Proxy software, including compiled
+binaries, packages, installers, releases, documentation, and other
+materials distributed through this repository or through official
+Hunt Proxy distribution channels ("Software").
 
-The source code of Hunt Proxy is proprietary and is not included in this repository. No rights to the source code are granted under this license.
+The source code of Hunt Proxy is proprietary and is not included in
+this repository. No rights to the source code are granted under this
+license.
 
 2. ACCEPTANCE
 
-By downloading, installing, accessing, or using the Software, you agree to be bound by the terms of this license. If you do not agree to these terms, you may not download, install, or use the Software.
+By downloading, installing, accessing, or using the Software, you
+agree to be bound by the terms of this license. If you do not agree
+to these terms, do not download, install, or use the Software.
 
 3. GRANT OF LICENSE
 
-Subject to the terms of this license, you are granted a limited, non-exclusive, non-transferable, revocable license to download, install, and use the Software for personal, educational, research, and authorized security testing purposes.
+Subject to the terms of this license, you are granted a limited,
+non-exclusive, non-transferable, revocable license to download,
+install, and use the Software for personal, educational, research,
+and authorized security testing purposes.
 
-You may use the Software only on systems and applications that you own or for which you have explicit, documented permission to test.
+You may use the Software only on systems and applications that you
+own or have explicit, documented permission to test.
 
 4. RESTRICTIONS
 
-You may not, except where expressly permitted by this license or required by applicable law notwithstanding this restriction:
+You may not, except where expressly permitted by this license or
+required by applicable law notwithstanding this restriction:
 
 - copy, redistribute, publish, or mirror the Software;
-- sell, rent, lease, sublicense, or otherwise commercially distribute the Software;
-- modify, adapt, translate, or create derivative works of the Software;
-- reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code, underlying structure, ideas, or algorithms of the Software, except to the extent such restriction is expressly prohibited by applicable law;
-- distribute modified, repackaged, or rebranded versions of the Software;
-- remove or alter any copyright, trademark, license, or attribution notices;
-- use the Software to provide a competing commercial product or service to third parties without prior written permission from the copyright holder;
+- sell, rent, lease, sublicense, or otherwise commercially distribute
+  the Software;
+- modify, adapt, translate, or create derivative works of the
+  Software;
+- reverse engineer, decompile, disassemble, or otherwise attempt to
+  derive the source code, underlying structure, ideas, or algorithms
+  of the Software, except to the extent such restriction is expressly
+  prohibited by applicable law;
+- distribute modified, repackaged, or rebranded versions of the
+  Software;
+- remove or alter copyright, trademark, license, or attribution
+  notices;
+- use the Software to provide a competing commercial product or
+  service to third parties without prior written permission from the
+  copyright holder;
 - claim ownership or authorship of the Software or any part of it.
 
 5. SECURITY TESTING
 
-Hunt Proxy is a security testing and web proxy tool. You are solely responsible for ensuring that your use of the Software is authorized and complies with all applicable laws, regulations, contracts, and policies.
+Hunt Proxy is a security testing and web proxy tool. You are solely
+responsible for ensuring that your use of the Software is authorized
+and complies with all applicable laws, regulations, contracts, and
+policies.
 
-The author does not authorize, encourage, or condone unauthorized access, testing, scanning, exploitation, or disruption of systems that you do not own or for which you do not have explicit authorization to test.
-
-You assume all risk and liability arising from your use of the Software.
+The author does not authorize, encourage, or condone unauthorized
+access, testing, scanning, exploitation, or disruption of systems
+that you do not own or do not have explicit authorization to test.
+You assume all risk and liability arising from your use of the
+Software.
 
 6. OWNERSHIP
 
-The Software, including all associated intellectual property rights (copyright, trade secrets, and other proprietary rights), remains the exclusive property of Mario Ashraf.
+The Software, including all associated intellectual property rights
+(copyright, trade secrets, and other proprietary rights), remains the
+exclusive property of Mario Ashraf.
 
-This license does not transfer ownership of the Software or any intellectual property rights to you.
-
-All rights not expressly granted are reserved by the copyright holder.
+This license does not transfer ownership of the Software or any
+intellectual property rights to you. All rights not expressly granted
+are reserved by the copyright holder.
 
 7. TRADEMARKS
 
-"Hunt Proxy" and any associated logos and branding are trademarks or identifying marks of Mario Ashraf.
-
-This license does not grant any right to use these names, logos, or branding, except as necessary to accurately refer to the Software.
+"Hunt Proxy" and any associated logos and branding are trademarks or
+identifying marks of Mario Ashraf. This license does not grant any
+right to use these names, logos, or branding, except as necessary to
+accurately refer to the Software.
 
 8. THIRD-PARTY SOFTWARE
 
-The Software may include, invoke, download, install, or depend upon third-party software, libraries, tools, wordlists, databases, or other components ("Third-Party Components").
+The Software may include, invoke, download, install, or depend upon
+third-party software, libraries, tools, wordlists, databases, or
+other components ("Third-Party Components").
 
-Third-Party Components are not licensed under this Hunt Proxy Proprietary Software License. Each Third-Party Component remains subject to its own applicable license, copyright notices, terms of use, and other legal requirements.
+Third-Party Components are not licensed under this Hunt Proxy
+Proprietary Software License. Each Third-Party Component remains
+subject to its own applicable license, copyright notices, terms of
+use, and other legal requirements.
 
-Nothing in this license grants, restricts, or overrides any rights granted by the applicable license of a Third-Party Component.
+Nothing in this license grants, restricts, or overrides any rights
+granted by the applicable license of a Third-Party Component.
 
-Where Hunt Proxy distributes a Third-Party Component as part of an installer, package, release, or other distribution, the applicable license, copyright notices, attribution requirements, and source-code requirements for that component remain applicable.
+Where Hunt Proxy distributes a Third-Party Component as part of an
+installer, package, release, or other distribution, the applicable
+license, copyright notices, attribution requirements, and source-code
+requirements for that component remain applicable.
 
-A list of Third-Party Components distributed with or used by Hunt Proxy, together with their applicable licenses and required notices, is provided in the THIRD-PARTY-NOTICES.md file or accompanying documentation.
+A list of Third-Party Components distributed with or used by Hunt
+Proxy, together with their applicable licenses and required notices,
+is provided in the THIRD-PARTY-NOTICES.md file or accompanying
+documentation.
 
-The proprietary Hunt Proxy license applies only to the portions of the Software owned by Mario Ashraf and does not apply to Third-Party Components.
+The proprietary Hunt Proxy license applies only to the portions of
+the Software owned by Mario Ashraf and does not apply to Third-Party
+Components.
 
 9. DISCLAIMER OF WARRANTY
 
-THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
-
-YOU USE THE SOFTWARE AT YOUR OWN RISK.
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, AND NON-INFRINGEMENT. YOU USE THE SOFTWARE AT YOUR OWN RISK.
 
 10. LIMITATION OF LIABILITY
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR OTHER DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION) ARISING FROM OR RELATED TO THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT
+HOLDER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL, PUNITIVE, OR OTHER DAMAGES (INCLUDING, WITHOUT
+LIMITATION, DAMAGES FOR LOSS OF DATA, LOSS OF PROFITS, OR BUSINESS
+INTERRUPTION) ARISING FROM OR RELATED TO THE USE OR INABILITY TO USE
+THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 11. TERMINATION
 
-This license automatically terminates immediately upon any violation of its terms, without notice.
+This license automatically terminates immediately if you violate any
+of its terms, without notice.
 
-Upon termination, you must stop using and delete all copies of the Software in your possession or control, except where retention is required by applicable law.
+Upon termination, you must stop using and delete all copies of the
+Software in your possession or control, except where retention is
+required by applicable law.
 
-12. SEVERABILITY
+12. GOVERNING LAW
 
-If any provision of this license is held to be invalid or unenforceable, that provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.
+This license is governed by and construed in accordance with the laws
+of [YOUR COUNTRY / STATE], without regard to its conflict-of-law
+principles. Any dispute arising under or related to this license
+shall be subject to the exclusive jurisdiction of the competent courts
+of [YOUR COUNTRY / STATE].
 
-13. NO WAIVER
+13. SEVERABILITY
 
-The failure of the copyright holder to enforce any right or provision of this license shall not constitute a waiver of that right or provision.
+If any provision of this license is held to be invalid or
+unenforceable, that provision shall be limited or eliminated to the
+minimum extent necessary, and the remaining provisions shall remain
+in full force and effect.
 
-14. CHANGES
+14. NO WAIVER
 
-The copyright holder may update this license for future versions of the Software. Each release is governed by the license text provided with that specific release.
+The failure of the copyright holder to enforce any right or provision
+of this license shall not constitute a waiver of that right or
+provision.
 
-15. CONTACT
+15. CHANGES
 
-For licensing permissions, commercial use, redistribution requests, or other inquiries, please contact the copyright holder through the official Hunt Proxy project channels.
+The copyright holder may update this license for future versions of
+the Software. Each release is governed by the license text provided
+with that specific release.
 
-16. COPYRIGHT
+16. CONTACT
+
+For licensing permissions, commercial use, redistribution requests,
+or other inquiries, contact the copyright holder through the official
+Hunt Proxy project channels.
+
+17. COPYRIGHT
 
 Copyright (c) 2026 Mario Ashraf
 All rights reserved.
