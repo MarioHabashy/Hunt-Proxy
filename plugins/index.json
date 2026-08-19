@@ -3,6 +3,6 @@
     "name": "Note Counter",
     "author": "MarioHabashy",
     "description": "Shows how many findings are currently loaded, plus a scratchpad.",
-    "url": "https://raw.githubusercontent.com/MarioHabashy/hunt-proxy/main/plugins/note_counter.py"
+    "url": "https://raw.githubusercontent.com/MarioHabashy/Hunt-Proxy/refs/heads/main/plugins/example_plugin.py"
   }
 ]
